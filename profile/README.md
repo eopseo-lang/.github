@@ -1,4 +1,4 @@
-# ![(image)](https://avatars.githubusercontent.com/u/135497319?s=200&v=4) Eopseo
+# ![(image)](https://avatars.githubusercontent.com/u/135497319?s=64&v=4) Eopseo
 
 ## Main Theory
 
