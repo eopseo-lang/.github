@@ -2,5 +2,5 @@
 
 ## Main Theory
 
-Programming is also possible in just describing inclusion relationship of types (sets).
+Programming is also possible in just describing inclusion relationship of types(sets).
 
